@@ -1,0 +1,25 @@
+[{
+  "_id": "A1",
+  "text": "Hello",
+  "createdAt": "December 17, 1995 03:24:00 GMT-0800",
+  "user": {
+    "_id": "G6",
+    "name": "Jackson",
+  }
+}, {
+  "_id": "A1",
+  "text": "Yo",
+  "createdAt": "March 17, 2000 14:53:00 GMT-0800",
+  "user": {
+    "_id": "D4",
+    "name": "Barry",
+  }
+}, {
+  "_id": "A1",
+  "text": "Sup",
+  "createdAt": "December 1, 2021 10:02:00 GMT-0800",
+  "user": {
+    "_id": "I8",
+    "name": "Jerry",
+  }
+}]
